@@ -1,6 +1,6 @@
 /*--------------variables-------------*/
 :root {
-    --primary-text-color: #2E2F42;
+    --primary-text-color: #434455;
     --primary-bg-color: #ffffff;
     --hero-background-color: #2E2F42;
     --team-background-colr: #F4F4FD;
@@ -18,9 +18,6 @@
     --footer-background-color: #2E2F42;
 
 }
-
-
-
 
 /*-----------------------main-regulation------------------------*/
 .body {
@@ -82,7 +79,7 @@
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.33;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--logo);
@@ -148,6 +145,12 @@
 /*----------------------main-page---------------------*/
 
 
+.hero {
+
+    background-color: var(--footer-background-color);
+
+}
+
 
 .hero-title {
     font-weight: 700;
@@ -156,7 +159,7 @@
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--hero-title-color);
-    background-color: var(--hero-background-color);
+    
 }
 
 .visually-hidden {
