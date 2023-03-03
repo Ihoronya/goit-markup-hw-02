@@ -1,11 +1,11 @@
 /*--------------variables-------------*/
 :root {
-    --primary-text-color: #2E2F42;
+    --primary-text-color: #434455;
     --primary-bg-color: #ffffff;
     --hero-background-color: #2E2F42;
     --team-background-colr: #F4F4FD;
-    --accent-color: #4D5AE5;
-    --logo-up-color: #2E2F42;
+    --accent-color: #2e2f42;
+    --logo-up-color: #4d5ae5;
     --logo-down-color: #F4F4FD;
     --btn-portfolio-color: #4D5AE5;
     --btn-bg-portfolio-color: #F4F4FD;
@@ -30,6 +30,11 @@
     background-color: var(--primary-bg-color);
 }
 
+.adress {
+
+    font-style: normal
+}
+
 .list {
     list-style: none;
 }
@@ -37,6 +42,7 @@
 .link {
     text-decoration: none;
 }
+
 
 .hero-btn {
     font-family: inherit;
@@ -108,7 +114,7 @@
 
 .navigation:hover,
 .navigation:focus {
-    color: var(--accent-color);
+    color: #404bbf;
 }
 
 .connection {
