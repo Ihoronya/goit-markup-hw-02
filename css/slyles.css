@@ -109,7 +109,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--primary-text-color);
+    color: var(--navigation);
 }
 
 .navigation:hover,
@@ -193,7 +193,7 @@
     text-align: center;
     text-transform: capitalize;
     letter-spacing: 0.02em;
-    color: var(--primary-text-color);
+    color: var(--navigation);
 }
 
 .team-section {
@@ -207,7 +207,7 @@
     text-align: center;
     text-transform: capitalize;
     letter-spacing: 0.02em;
-    color: var(--primary-text-color);
+    color: var(--navigation);
 }
 
 .name {
@@ -215,6 +215,7 @@
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: var(--navigation);
 }
 
 .job {
