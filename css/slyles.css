@@ -40,7 +40,7 @@
 
 .hero-btn {
     font-family: inherit;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
     letter-spacing: 0.04em;
@@ -57,7 +57,7 @@
 
 .portfolio-btn {
     font-family: inherit;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -99,7 +99,7 @@
 }
 
 .navigation {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -141,7 +141,7 @@
 
 
 .hero-title {
-    font-weight: 600;
+    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -159,14 +159,14 @@
     width: 1px;
 }
 
-.skills-title {
-    font-weight: 600;
+.advantages-title {
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
-.skills-text {
+.advantages-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -174,7 +174,7 @@
 }
 
 .galery-title {
-    font-weight: 600;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -185,14 +185,14 @@
 }
 
 .team-title {
-    font-weight: 600;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
 }
 
 .name {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -208,11 +208,11 @@
 
 
 
-/*--------------------poetfolio-page-------------*/
+/*--------------------portfolio-page-------------*/
 
 
 .name-product {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
