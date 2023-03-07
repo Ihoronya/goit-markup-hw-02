@@ -16,6 +16,7 @@
     --main-background-color: #FFFFFF;
     --team-background-color: #f4f4fd;
     --footer-background-color: #2E2F42;
+    --footer-text-color: #f4f4fd;
 
 }
 
@@ -122,7 +123,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: var(--primary-text-color);
 }
 
 .connection:hover,
@@ -134,7 +135,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #E7E9FC;
+    color: var(--footer-text-color);
 }
 
 .footer {
@@ -198,6 +199,11 @@
 
 .team-section {
     background-color: var(--team-background-color);
+}
+
+.team-title-list {
+
+    background-color: #FFFFFF;
 }
 
 .team-title {
